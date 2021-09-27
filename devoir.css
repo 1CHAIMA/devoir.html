@@ -1,0 +1,220 @@
+
+header{
+    background-color: #ffffff;
+    height: 200px;
+    margin-left: 7%;
+    margin-right: 6%
+}
+B{
+    color: sandybrown;
+}
+.logo{
+    float: left;
+    padding: 2%;
+    margin: auto;
+}
+.cadre{
+    position: relative;
+    top: -20px;
+    float: right;
+    background-color: rgb(221, 217, 217);
+    border-radius: 5px;
+    border: solid 1px;
+    text-emphasis: center;
+    margin: 7%;;
+    width: 80%;
+    display: flex;
+    flex: auto;
+}
+
+.cadre img{
+    margin: 10px;
+}
+
+.cadre p{
+    width: 190px;
+    position: relative;
+    top: 10px;
+}
+
+.pos{
+    float: right;
+}
+
+.pos1{ height: 50px;}
+.POS2{ flex: 2;}
+.POS3{ flex: 3;  margin: 20px;}
+.POS4{ flex: 4;}
+
+
+.bonj{ 
+    position: relative;
+    top: -40px;
+    left: -10px;
+     text-align: right;
+     margin: 26px; }
+.menu{
+    position: relative;
+    top: -45px;
+    margin: 26px;
+}
+
+.menu li{
+    padding: 20px;
+    padding-top: 20px;
+    display: inline-block;
+    border-right: solid;
+}
+
+.menu li:nth-child(1){
+    border-left: solid;
+}
+
+    /*section*/
+section{
+    background-color: black;
+       
+}
+
+.centree{
+    background-color: white;
+    width: 85%; 
+    margin: auto;
+    text-align: center;
+    height: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cadr{
+    position: relative;
+    top: -60px;
+    left: -20px;
+    width: 40%;
+    margin: auto;
+}
+  
+.image{
+    position: relative;
+    top: -49px;
+    margin-left: 0%;
+    margin-right: 10%;
+    width: 101%;
+} 
+
+.contimage{
+    background:  rgb(253, 250, 250);
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+   
+}
+.image1{border: solid 1px;
+    margin: 50px; 
+    border: 1mm ridge;}
+
+.div1{position: relative;}
+
+.clh1{
+    border: solid 1px; 
+    margin: 50px; 
+    border: 1mm groove black; 
+    background-color: black;
+    color: coral;
+    width: 20%; 
+    position: absolute;
+    top: 30Px;
+    right: -69px;}
+.clh2{background: linear-gradient();
+    position: absolute;
+    right: 2px;
+    top: 437px;
+    text-decoration-line:underline;}
+
+.bb{  
+    color: sandybrown; 
+    text-decoration-line: line-through;}
+
+.clh3{border: solid 1px; 
+    background-color: black; 
+    color: white; 
+    width: 26%; 
+    position: absolute;
+    left: 50px;
+    top: 425px;
+    padding: 2%;}
+
+.clh4{color: black; 
+    background-color: white;
+    position: absolute;
+    top: 373px;
+    right: 30%;
+}
+
+.fauxhr{
+    position:relative;
+    top: -50px;
+    box-shadow: 1px 1px 12px black;
+    background-color: #373737;
+    width: 100%;
+    height: 20px;
+}
+.bg{
+   background-color: white;
+    display: inline;
+    position: relative;
+    top: 341%;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    top: -62px;
+    width: 50%;
+    left:  386px;
+    z-index: 1;
+}
+
+.petitcarret{
+    display: inline-block;
+    background-color: rgb(182, 177, 177);
+    border-radius: 1px;
+    margin: 12px;
+    padding: 8px;
+    position: relative;
+    top: 15px;
+}
+footer{
+    position: relative;
+    top: -80px;
+    background-color: rgb(66, 65, 65);
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 10px;  
+}
+footer ul, footer li{
+    display: inline-block;
+    padding: 24px;
+    height: 50px;
+    margin: auto;
+}
+nav{
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.imgfotter{ 
+    position: relative;
+    top: -10px;
+    
+}
+img{
+    position: relative;
+    top: 20%;
+    }
+.pp{
+     position: absolute;
+    margin: -2%;
+    width: 9%;
+    top: 158px;
+
+}
